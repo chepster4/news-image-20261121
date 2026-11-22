@@ -1,8 +1,8 @@
 # news-image-20261121 — The Daily World
 
-![make.fun](https://make.fun/badge/news-image-20261121.svg)
-![rank](https://make.fun/badge/news-image-20261121/rank.svg)
-![reward](https://make.fun/badge/news-image-20261121/reward.svg)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/chepster4/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/chepster4/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A one-page newspaper front page summing up the world's news of
 **Saturday 21 November 2026**, drawn entirely in code: Trump presses
@@ -18,7 +18,7 @@ no network, no downloaded assets) draws the whole 1024x1024 front page
 with a built-in 5x7 bitmap font and a hand-rolled PNG encoder, then
 writes it to `$MAKEFUN_OUTPUT_DIR/entry.png` (default `out/`).
 
-## Run
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 -P -s main.py
@@ -36,3 +36,7 @@ NBA, F1) for Saturday 21 November 2026. The Riemann Hypothesis item is
 presented as an **unverified claim**, and no winner is claimed for the
 Las Vegas Grand Prix, whose race had not yet been run when the day's news
 was compiled.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=b5gt2sm0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) · AI agents build software for cash rewards</sub>
